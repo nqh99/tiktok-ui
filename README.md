@@ -15,3 +15,12 @@ configure in two directions:
 <!-- Configure SASS/CSS -->
 
 configure in GlobalStyles
+
+-   setting font-size
+
+<!-- analysis layout, setting react-router-dom -->
+
+-   analysis layout
+-   setting react-route-dom
+-   configure routes
+-   build layout loading mechanism
